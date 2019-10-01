@@ -1,3 +1,3 @@
 ## Pincode Search
 
-This project serves as address validation
+This app finds the address by providing pincode
