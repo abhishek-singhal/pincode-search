@@ -1,3 +1,4 @@
 ## Pincode Search
 
-This is a spring boot app
+This app finds the address by providing pincode
+
